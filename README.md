@@ -40,8 +40,11 @@
 
 <br />
 <br />
+<br />
+<br />
 
 ## As you can see, I am not dead
+<br />
 <div align="center" width=100% >
 
   | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&theme=cobalt&layout=compact"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=biju-borah&count_private=t&hide=stars&theme=cobalt"> |
