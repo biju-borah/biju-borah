@@ -44,7 +44,7 @@
 ## As you can see, I am not dead
 <div align="center" width=100% >
 
-  | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&theme=synthwave&layout=cobalt"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=biju-borah&count_private=t&hide=stars&theme=cobalt"> |
+  | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&theme=cobalt&layout=compact"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=biju-borah&count_private=t&hide=stars&theme=cobalt"> |
   |---|---|
   <img src="https://activity-graph.herokuapp.com/graph?username=biju-borah&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=I%20have%20no%20life&hide_border=true" />
 
