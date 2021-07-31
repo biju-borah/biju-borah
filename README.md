@@ -23,7 +23,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 [<img align="left" alt="Deno" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />]()
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]()
+[<img align="left" alt="Deno" width="26px" src="https://image.flaticon.com/icons/png/512/381/381704.png" />]()
 [<img align="left" alt="Deno" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/c.svg" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
