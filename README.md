@@ -41,9 +41,9 @@
 <br />
 <br />
 
-<div align="center" width=100%>
+<div align="center" width=100% style="margin-top:20px">
 
-  | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&theme=synthwave&layout=compact"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=synthwave"> |
+  | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&theme=synthwave&layout=compact"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=biju-borah&count_private=t&hide=stars&theme=synthwave"> |
   |---|---|
   <img src="https://activity-graph.herokuapp.com/graph?username=biju-borah&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" />
 
