@@ -1,6 +1,6 @@
 ### Hi there, I'm Biju 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://biju-borah.herokuapp.com/)![Visitors](https://api.visitorbadge.io/api/visitors?user=Biju Borah&repo=github.com/biju-borah&labelColor=%23d9e3f0&countColor=%232ccce4)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://biju-borah.herokuapp.com/)[![Visitors](https://api.visitorbadge.io/api/visitors?user=biju-borah&repo=github.com/biju-borah&labelColor=%23d9e3f0&countColor=%232ccce4)](https://api.visitorbadge.io/api/visitors?user=biju-borah&repo=github.com/biju-borah&labelColor=%23d9e3f0&countColor=%232ccce4)
 
 ## I'm a Student, Developer, and Self-learner!!
 
