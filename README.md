@@ -42,6 +42,13 @@
 <br />
 <br />
 
+## 📊 Github Statistics
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=biju-borah&show_icons=true&theme=github-dark" alt="biju" />
+<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=biju-borah&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="biju" /></p>
+<br>
+
+
 ### As you can see, I am not dead
 <div align="center" width=100% >
 
