@@ -1,4 +1,4 @@
-### Hi there, I'm Biju 👋
+### Hi there, I'm Biju <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.herokuapp.com/)
 
