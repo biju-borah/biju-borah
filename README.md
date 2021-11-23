@@ -23,6 +23,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />]()
 [<img align="left" alt="Deno" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />]()
 [<img align="left" alt="Deno" width="26px" src="https://image.flaticon.com/icons/png/512/381/381704.png" />]()
 [<img align="left" alt="Deno" width="26px" src="https://github.com/resyfer/resyfer/raw/main/img/c.svg" />]()
