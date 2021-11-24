@@ -56,9 +56,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&layout=compact&show_icons=true&theme=blue-green)](https://github.com/biju-borah)
 <br>
 <br>
-
-## As you can see, I am not dead
-<div align="center" width=100% >
-  <img src="https://activity-graph.herokuapp.com/graph?username=biju-borah&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=I%20have%20no%20life&hide_border=true" />
-
-</div>
