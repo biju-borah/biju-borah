@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: My 2021 goals are postponed to 2022
+- 🥅 2022 Goals: Learn DSA and get a life
 - ⚡ Fun fact: I love to read and play guitar
 
 
