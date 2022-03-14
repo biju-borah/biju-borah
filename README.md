@@ -46,13 +46,12 @@
 <br />
 
 ## 📊 Github Statistics
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=biju-borah&show_icons=true&theme=blue-green" alt="biju" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=biju-borah&langs_count=12&count_private=true&show_icons=true&theme=blue-green" alt="biju" />
 <p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=biju-borah&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="biju" /></p>
 <br>
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&layout=compact&show_icons=true&theme=blue-green)](https://github.com/biju-borah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&langs_count=12&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/biju-borah)
 <br>
 <br>
