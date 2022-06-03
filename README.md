@@ -1,7 +1,4 @@
-<h2> Hi there, I'm Biju 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-
+<h2> Hi there, I'm Biju </h2>
 [![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.herokuapp.com/) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=biju-borah.visitor-badge)
 
 ## I'm a Student, Developer, and Self-learner!!
