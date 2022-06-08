@@ -1,23 +1,23 @@
-<h2> Hi there, I'm Biju 👋</h2>
+<h2> Hello World 👋</h2>
 
 -----
 
 <p align="center">
  
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+![image](https://github.com/biju-borah/biju-borah/blob/master/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
 
 </p>
 
 -----
 
-[![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.herokuapp.com/) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=biju-borah.visitor-badge)
+[![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.herokuapp.com/) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=biju-borah.visitor-badge) [![GitHub avinash201199](https://img.shields.io/github/followers/biju-borah?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 
-## I'm a Student, Developer, and Self-learner!!
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Learn DSA and get a life
-- ⚡ Fun fact: I love to read and play guitar
+- 💡 Hello everyone,I'm engineering student. Love to code , exploring Machine learning these days. I enjoy collaborating with people on works of similar interest.
+- 🌱 I’m currently learning Flutter & Jetpack compose
+- 🥅 2022 Goals: Bring an impact on open source contribution
+- ✍️ Apart from technical interests, I like playing guitar, watching movies, reading books, playing Table tennis and Badminton.
 
 
 ### Connect with me:
