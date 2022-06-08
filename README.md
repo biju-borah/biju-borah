@@ -1,4 +1,14 @@
-<h2> Hi there, I'm Biju </h2>
+<h2> Hi there, I'm Biju 👋</h2>
+
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
 
 [![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.herokuapp.com/) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=biju-borah.visitor-badge)
 
