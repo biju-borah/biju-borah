@@ -17,7 +17,7 @@
 - 💡 Hello everyone, I'm engineering student. Love to code, exploring Machine learning these days. I enjoy collaborating with people on works of similar interest.
 - 🌱 I’m currently learning Flutter & Jetpack compose
 - 🥅 2022 Goals: Bring an impact on open source contribution
-- ✍️ Apart from technical interests, I like playing guitar, watching movies, reading books, playing Table tennis and Badminton.
+- ✍️ Apart from technical interests, I like playing guitar, watching movies, reading books, playing table tennis and badminton.
 
 
 ### Connect with me:
