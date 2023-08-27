@@ -10,13 +10,13 @@
 
 -----
 
-[![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.herokuapp.com/) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=biju-borah.visitor-badge) [![GitHub avinash201199](https://img.shields.io/github/followers/biju-borah?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+[![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.github.io)![](https://komarev.com/ghpvc/?username=biju-borah&color=dc143c)[![GitHub avinash201199](https://img.shields.io/github/followers/biju-borah?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 Hello everyone, I'm engineering student. Love to code, exploring Machine learning these days. I enjoy collaborating with people on works of similar interest.
-- 🌱 I’m currently learning Flutter & Jetpack compose
-- 🥅 2022 Goals: Bring an impact on open source contribution
+- 💡 Hello everyone, I'm an engineering student. I love to code, and I'm exploring Machine learning these days. I enjoy collaborating with people on works of similar interest.
+- 🌱 I’m currently exploring open source & web3
+- 🥅 2023 Goals: Lead open source project
 - ✍️ Apart from technical interests, I like playing guitar, watching movies, reading books, playing table tennis and badminton.
 
 
